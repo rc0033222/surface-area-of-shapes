@@ -73,9 +73,49 @@ namespace surface_area_of_shapes.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cube_screen {
+            get {
+                object obj = ResourceManager.GetObject("cube_screen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cuboid_screen {
+            get {
+                object obj = ResourceManager.GetObject("cuboid_screen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cylinder_screen {
+            get {
+                object obj = ResourceManager.GetObject("cylinder_screen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap home_page_edit_1 {
             get {
                 object obj = ResourceManager.GetObject("home_page_edit_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sphere_screen {
+            get {
+                object obj = ResourceManager.GetObject("sphere_screen", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

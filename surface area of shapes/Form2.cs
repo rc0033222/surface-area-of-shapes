@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace surface_area_of_shapes
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
@@ -20,15 +20,9 @@ namespace surface_area_of_shapes
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            var newForm = new Form2();
+            var newForm = new Form1();
             newForm.Show();
-        }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            var newForm = new Cube();
-            newForm.Show();
         }
     }
 }
