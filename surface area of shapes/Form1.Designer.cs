@@ -81,6 +81,7 @@
             this.button3.TabIndex = 4;
             this.button3.Text = "Cylinder";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -94,6 +95,7 @@
             this.button4.TabIndex = 5;
             this.button4.Text = "Cuboid";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // pictureBox1
             // 
