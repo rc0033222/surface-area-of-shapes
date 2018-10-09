@@ -136,5 +136,26 @@
   <ItemGroup>
     <None Include="Resources\sphere screen.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\68638208-blanc-sphère-abstraite-boule-perle-avec-des-ombres-réalistes-et-fond-transparent-pour-le-logo-les-concep.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cube-PNG-HD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-cube-geometry-geometric-shape-square-geometric-shapes-5ac88d82758032.3702114015230928664813.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-cylinder-isolated-on-transparent-260nw-596752817.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\96707103-cone-of-black-color-poster-with-geometric-shape-and-lettering-banner-and-cone-form-with-shadow-vecto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d-render-white-blank-cuboid-260nw-725096326.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cuboid.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

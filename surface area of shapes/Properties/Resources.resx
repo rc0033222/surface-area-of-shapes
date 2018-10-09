@@ -121,8 +121,14 @@
   <data name="Calculator_NemiS" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Calculator_NemiS.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Cube_PNG_HD" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Cube-PNG-HD.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="cube_screen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cube screen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cuboid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cuboid.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cuboid_screen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cuboid screen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -135,5 +141,11 @@
   </data>
   <data name="sphere_screen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sphere screen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_68638208_blanc_sphère_abstraite_boule_perle_avec_des_ombres_réalistes_et_fond_transparent_pour_le_logo_les_concep" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\68638208-blanc-sphère-abstraite-boule-perle-avec-des-ombres-réalistes-et-fond-transparent-pour-le-logo-les-concep.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_96707103_cone_of_black_color_poster_with_geometric_shape_and_lettering_banner_and_cone_form_with_shadow_vecto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\96707103-cone-of-black-color-poster-with-geometric-shape-and-lettering-banner-and-cone-form-with-shadow-vecto.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

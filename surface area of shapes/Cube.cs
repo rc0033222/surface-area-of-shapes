@@ -23,5 +23,10 @@ namespace surface_area_of_shapes
             var newForm = new Form1();
             newForm.Show();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

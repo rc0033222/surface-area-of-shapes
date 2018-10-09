@@ -63,6 +63,28 @@ namespace surface_area_of_shapes.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _68638208_blanc_sphère_abstraite_boule_perle_avec_des_ombres_réalistes_et_fond_transparent_pour_le_logo_les_concep {
+            get {
+                object obj = ResourceManager.GetObject("_68638208_blanc_sphère_abstraite_boule_perle_avec_des_ombres_réalistes_et_fond_tr" +
+                        "ansparent_pour_le_logo_les_concep", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _96707103_cone_of_black_color_poster_with_geometric_shape_and_lettering_banner_and_cone_form_with_shadow_vecto {
+            get {
+                object obj = ResourceManager.GetObject("_96707103_cone_of_black_color_poster_with_geometric_shape_and_lettering_banner_an" +
+                        "d_cone_form_with_shadow_vecto", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Calculator_NemiS {
             get {
                 object obj = ResourceManager.GetObject("Calculator_NemiS", resourceCulture);
@@ -73,9 +95,29 @@ namespace surface_area_of_shapes.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Cube_PNG_HD {
+            get {
+                object obj = ResourceManager.GetObject("Cube_PNG_HD", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cube_screen {
             get {
                 object obj = ResourceManager.GetObject("cube_screen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cuboid {
+            get {
+                object obj = ResourceManager.GetObject("cuboid", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
