@@ -24,5 +24,14 @@ namespace surface_area_of_shapes
             newForm.Show();
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double i = Convert.ToDouble(textBox1.Text);
+
+            double a = 4 * Math.PI * i * i;
+
+            label2.Text = "The Answer is " + a;
+        }
     }
 }
