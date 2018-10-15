@@ -32,9 +32,10 @@ namespace surface_area_of_shapes
 
             double w = Convert.ToDouble(textBox3.Text);
 
-            
+            double s = 2 *(w * l + h * l + h * w);
 
-          
+            label4.Text = "The Answer is " + s;
+
         }
 
         private void Form4_Load(object sender, EventArgs e)
