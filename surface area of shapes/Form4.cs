@@ -23,5 +23,18 @@ namespace surface_area_of_shapes
             var newForm = new Form1();
             newForm.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double l = Convert.ToDouble(textBox1.Text);
+
+            double h = Convert.ToDouble(textBox2.Text);
+
+            double w = Convert.ToDouble(textBox3.Text);
+
+            double s = ;
+
+            label3.Text = "The Answer is " + s;
+        }
     }
 }

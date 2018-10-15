@@ -38,5 +38,16 @@ namespace surface_area_of_shapes
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double r = Convert.ToDouble(textBox1.Text);
+
+            double h = Convert.ToDouble(textBox2.Text);
+
+            double s = 2.0 * Math.PI * Math.Pow(r, 2.0) + 2.0 * Math.PI * r * h ;
+
+            label3.Text = "The Answer is " + s;
+        }
     }
 }

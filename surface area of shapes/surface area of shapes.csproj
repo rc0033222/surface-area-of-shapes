@@ -157,5 +157,8 @@
   <ItemGroup>
     <None Include="Resources\cuboid.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2000px-Cylinder.svg.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

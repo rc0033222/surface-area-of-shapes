@@ -148,4 +148,7 @@
   <data name="_96707103_cone_of_black_color_poster_with_geometric_shape_and_lettering_banner_and_cone_form_with_shadow_vecto" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\96707103-cone-of-black-color-poster-with-geometric-shape-and-lettering-banner-and-cone-form-with-shadow-vecto.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_2000px_Cylinder_svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2000px-Cylinder.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

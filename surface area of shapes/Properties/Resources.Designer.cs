@@ -63,6 +63,16 @@ namespace surface_area_of_shapes.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2000px_Cylinder_svg {
+            get {
+                object obj = ResourceManager.GetObject("_2000px_Cylinder_svg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _68638208_blanc_sphère_abstraite_boule_perle_avec_des_ombres_réalistes_et_fond_transparent_pour_le_logo_les_concep {
             get {
                 object obj = ResourceManager.GetObject("_68638208_blanc_sphère_abstraite_boule_perle_avec_des_ombres_réalistes_et_fond_tr" +
